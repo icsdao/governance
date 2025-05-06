@@ -1,66 +1,83 @@
----
-description: The official state and documentation of DAO governance.
----
+# Institute for Community Sustainability Governance
 
-<!-- CUSTOMIZE: Replace this heading with your organization name -->
-# DAO State Repository
+Welcome to the governance documentation for the Institute for Community Sustainability (ICS). This resource serves as the central source of truth for all information related to our governance structure, agreements, and collective decision-making processes.
 
-<!-- CUSTOMIZE: Update this introduction to reflect your organization's purpose -->
-Welcome to the DAO State Repository. This resource serves as the central source of truth for all information related to governance structure, agreements, and collective decision-making processes. By maintaining these records in a consistent, accessible format, we enable transparency, accountability, and informed participation by all members.
+## About ICS
 
-<!-- CUSTOMIZE: Modify this section to explain your repository's purpose -->
+The Institute for Community Sustainability (ICS) is a federal not-for-profit organization based in London, Ontario. Our vision is collective liberation: a world where people live in peace and harmony with each other and nature. Our mission is to help people live more sustainable and connected lives.
 
-## What is a DAO State Repository?
+Through programs like the Repair Café, Thing Library, and Green Pill London, we work to build community resilience, reduce waste, and create more connected and sustainable ways of living.
 
-A DAO State Repository functions as the formal record of a decentralized organization's governance. It contains the collective agreements that define how the organization operates, makes decisions, and evolves over time. This repository is version-controlled to provide a reliable history of governance changes and is designed to empower all members with the information they need to participate effectively.
+## Key Documents
 
-## Table of Contents
+### Foundations
 
-- [Agreements](#agreements)
-- [Policies](#policies)
-- [Archives](#archives)
-
-<!-- CUSTOMIZE: Update with your organization's specific agreements -->
+- [Cell State](cell_state.md) - Our core organizational structure and governance framework
+- [Governance](governance.md) - How we maintain and update our governance documentation
 
 ### Agreements
 
-The "Agreements" section contains the foundational contracts between members of the DAO. These agreements establish shared expectations, rights, and obligations within the organization.
-
+- [Code of Conduct](agreements/code_of_conduct.md) - Behavioral expectations for our community
 - [Community Guidelines](agreements/community_guidelines.md) - Norms and shared practices
-- [Code of Conduct](agreements/code_of_conduct.md) - Behavioral expectations for members
-- [Operating Agreement](agreements/operating_agreement.md) - Legal framework for the organization
-
-<!-- CUSTOMIZE: Update with your organization's specific policies -->
+- [Operating Agreement](agreements/operating_agreement.md) - Legal framework for our organization
 
 ### Policies
 
-The "Policies" section outlines the standard procedures and rules governing DAO operations. These policies create consistent, predictable processes for decision-making and organizational management.
+#### Metagovernance
+- [Proposal Process](policies/metagovernance/proposal_process.md) - How we propose and decide on changes
+- [Decision Making](policies/metagovernance/decision_making.md) - Methods and frameworks for decisions
 
-<!-- CUSTOMIZE: Update with your organization's archive structure -->
+#### Operations
+- [Resource Allocation](policies/operations/resource_allocation.md) - How we manage and distribute resources
+- [Program Management](policies/operations/program_management.md) - How we run our programs and initiatives
+
+#### Administration
+- [Documentation Standards](policies/administration/documentation_standards.md) - How we create and maintain documentation
+- [Tool Access](policies/administration/tool_access.md) - How we manage access to platforms and tools
 
 ### Archives
 
-The "Archives" section maintains historical records of past proposals, decisions, and governance changes. This section ensures transparency and helps new members understand the evolution of the organization.
+- [Governance Archives](archive/index.md) - Historical decisions and proposals
 
-- [Proposal Archive](archive/proposals/) - Record of all submitted proposals
-- [Treasury Approvals](archive/approvals/) - History of resource allocation decisions
+## Infrastructure
 
-<!-- CUSTOMIZE: Adapt this guidance to your organization's structure -->
-## Using This Repository
+- **Multisig Wallet**: [0x3B454B53B4c414fFa8297EC49C9d5F040Cf035f8](https://etherscan.io/address/0x3B454B53B4c414fFa8297EC49C9d5F040Cf035f8)
+- **ENS Domain**: [theics.eth](https://app.ens.domains/name/theics.eth)
+- **CharmVerse Space**: [ICS Workspace](https://app.charmverse.io/superbenefit/ics-workspace-6136932233367063)
+- **Hats Protocol Tree**: [Tree 100/119](https://app.hatsprotocol.xyz/trees/100/119)
+- **Snapshot Space**: [Coming Soon]
 
-### For New Members
+## Using This Documentation
 
-If you're new to the organization, we recommend starting with the State section to understand the purpose and structure, followed by the Agreements to learn about rights and responsibilities within the DAO.
+### For New Contributors
 
-### For Active Contributors
+If you're new to ICS, we recommend starting with:
+1. The [Cell State](cell_state.md) document to understand our structure
+2. The [Code of Conduct](agreements/code_of_conduct.md) and [Community Guidelines](agreements/community_guidelines.md) to understand our community norms
+3. The [Decision Making](policies/metagovernance/decision_making.md) policy to understand how we make decisions
 
-Active contributors should familiarize themselves with the Policies section to effectively participate in organizational decision-making.
+### For Core Team Members
 
-### For Working Group Leaders
+If you're part of the Core Team, you'll want to familiarize yourself with:
+1. The [Proposal Process](policies/metagovernance/proposal_process.md) for initiating changes
+2. The [Resource Allocation](policies/operations/resource_allocation.md) policy for managing resources
+3. The [Program Management](policies/operations/program_management.md) policy for running programs
 
-Those leading working groups should reference the Operational Policies for guidance on coordinating activities and managing resources within the organization.
+### For Program Participants
 
-<!-- CUSTOMIZE: Update with your organization's maintenance information -->
----
+If you're participating in an ICS program, focus on:
+1. The [Community Guidelines](agreements/community_guidelines.md) for shared expectations
+2. The specific program documentation available in CharmVerse
+3. The [Documentation Standards](policies/administration/documentation_standards.md) if you'll be creating content
 
-This State Repository is maintained by the governance team and serves as the definitive record of the DAO's governance. All members are encouraged to propose improvements to this documentation through the metagovernance process.
+## Getting Involved
+
+To get involved with ICS governance:
+1. Join our Discord server
+2. Attend a community meeting
+3. Participate in program activities
+4. Propose ideas through our proposal process
+
+## Contact
+
+For questions about ICS governance, please reach out to [connect@communitysustainability.ca](mailto:connect@communitysustainability.ca) or visit our website at [communitysustainability.ca](https://communitysustainability.ca/).

@@ -1,39 +1,117 @@
-# Community Guidelines
+# ICS Community Guidelines
 
-Briefly describe your DAO's use of community guidelines and other aspects of it's social compact. This can include shared values, On/Offboarding expectations, rules for civilized discussion and dispute management practices, etc.
-
-It's a good idea to record all of these in one place to help members access and develop shared understanding. Add or remove sections as needed to include all relevant information.
-
-Here are some examples to help you get started:
+These guidelines articulate the shared expectations, norms, and practices that shape our community interactions at the Institute for Community Sustainability (ICS). They complement our [Code of Conduct](code_of_conduct.md) by providing more specific guidance on how we work together to achieve our mission of helping people live more sustainable and connected lives.
 
 ## Shared Values
 
-Describe your community's shared values and/or include its MVV statement here.
+Our community is founded on the following values, which inform all our interactions and decisions:
 
-## Dispute Resolution
+- **Equity, diversity, and inclusivity**: We actively work to create a community where everyone is welcome, valued, and able to contribute fully.
 
-Briefly describe your DAO's approach to dispute resolution here. It's important to define these expectations _before_ conflict emerges and may be required by some operating agreements or compliance requirements.
+- **Community resilience and solidarity**: We recognize our interdependence and support one another through challenges and opportunities.
 
-### Disputes with the DAO
+- **Radical love and imagination**: We approach our work with deep compassion and creative vision, embracing possibilities beyond the status quo.
 
-Describe how disputes between members and the DAO should be handled here.
+- **Sustainability and land stewardship**: We acknowledge our responsibility to the land and strive to build regenerative relationships with the earth and its resources.
 
-#### Ombuds
+- **Trust and accountability**: We build trust through transparency, consistency, and reliability, taking responsibility for our actions and impacts.
 
-Describe the role or group which handles disputes between members and the DAO here. Be sure to include instructions for engaging ombuds should disputes arise.
+- **Self-awareness and reflexivity**: We continuously examine our assumptions, biases, and the effects of our actions.
 
-### Disputes Among Members
+- **Humility, honesty, and courage**: We approach our work with a willingness to learn, a commitment to truth, and the bravery to challenge systems of oppression.
 
-Describe how disputes among members should be handled here.
+## Communication Practices
 
-#### Mediation
+### In Meetings
 
-Describe the role or group which mediates disputes between members of the DAO here. This could be an internal role, or an external party such as [Gravity DAO](https://gravitydao.org/en/).
+- **Check-ins**: We begin meetings with brief check-ins to build connection and context-awareness.
 
-### Code of Conduct Violations
+- **Active listening**: We give our full attention to whoever is speaking, seeking to understand before responding.
 
-Describe how Code of Conduct violations will be handled here.
+- **Balanced participation**: We create space for all voices and perspectives, being mindful of dynamics that might privilege certain voices over others.
 
-#### Arbitration
+- **Timeboxing**: We respect everyone's time by starting and ending meetings promptly and adhering to agreed-upon timeframes for discussion.
 
-Describe the role or group which arbitrates Code of Conduct violations, and how they will do so. Be sure to include possible outcomes (such as penalties or membership revocation) which may result from arbitration.
+- **Documentation**: We record key decisions, action items, and insights from our meetings in shared spaces for future reference.
+
+### In Digital Spaces
+
+- **Responsiveness**: We aim to respond to communications within 2-3 business days, while respecting each other's boundaries and work-life balance.
+
+- **Clarity**: We communicate clearly and directly, providing necessary context and being specific about expectations or requests.
+
+- **Appropriate channels**: We use the most appropriate communication channel for the message (e.g., Discord for team coordination, email for formal communications).
+
+- **Inclusive language**: We use language that is accessible and inclusive, avoiding jargon when possible and explaining it when necessary.
+
+- **Constructive feedback**: We offer feedback that is specific, actionable, and compassionate, focusing on behavior rather than identity.
+
+## Decision-Making
+
+- **Consent-based approach**: Our default decision-making approach is consent-based, meaning that decisions proceed when there are no paramount objections.
+
+- **Objections as resources**: We view objections as valuable information that can improve proposals, not as obstacles to be overcome.
+
+- **Transparency**: We make the decision-making process visible and accessible to all affected parties.
+
+- **Documentation**: We record decisions, including the reasoning behind them, in shared spaces for future reference.
+
+- **Levels of decision-making**: We recognize different levels of decisions (minor vs. major) and use appropriate processes for each (see our [Cell State](../cell_state.md) document for details).
+
+## Onboarding and Offboarding
+
+### Onboarding
+
+New community members can expect:
+
+- A warm welcome and introduction to the community
+- Access to key documentation and resources
+- A point person to support their integration
+- Clear explanation of roles, responsibilities, and opportunities for contribution
+- Regular check-ins during their first few months
+
+### Offboarding
+
+When leaving the community, members can expect:
+
+- A respectful acknowledgment of their contributions
+- A clear transition process for any responsibilities they held
+- The opportunity to share feedback about their experience
+- Continued connection to the community in appropriate ways
+
+## Conflict Resolution
+
+When conflicts arise, we follow these steps:
+
+1. **Direct communication**: Parties involved in a conflict first attempt to address it directly with each other.
+
+2. **Facilitated conversation**: If direct communication doesn't resolve the issue, parties can request a facilitated conversation with a neutral third party.
+
+3. **Formal mediation**: For more complex conflicts, formal mediation may be initiated through our established process.
+
+4. **Community accountability**: In cases where harm has occurred, we follow restorative practices to address the harm and rebuild trust.
+
+Throughout this process, we commit to:
+
+- Approaching conflict with curiosity and compassion
+- Focusing on specific behaviors and impacts rather than assumptions about intentions
+- Seeking solutions that address root causes and restore relationships
+- Respecting privacy while maintaining appropriate transparency
+
+## Accessibility and Inclusion
+
+We work to make our community accessible to all by:
+
+- Providing multiple ways to participate and contribute
+- Accommodating different learning and communication styles
+- Offering support for those facing barriers to participation
+- Continuously educating ourselves about accessibility and inclusion
+- Inviting and responding to feedback about how we can improve
+
+## Revision Process
+
+These Community Guidelines are a living document that will evolve as our community grows and learns. Suggestions for improvements can be submitted through our governance process outlined in the [Cell State](../cell_state.md) document.
+
+---
+
+By participating in the ICS community, you are agreeing to follow these guidelines. We are all responsible for creating and maintaining a community where everyone can thrive.

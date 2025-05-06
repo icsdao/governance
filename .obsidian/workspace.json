@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d2e6dda2b93032e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58818c3c0f3824b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f082b7aa93279ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "governance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "governance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50403ff019a8c049",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12bdcb75e85223c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0cbd0b8e16c1ce5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0eb98be46a7a4f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d98c00da0a428608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed734e2c99b03a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7dd0a06adad624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f20ccd8956ae08f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "governance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for governance"
+            }
+          },
+          {
+            "id": "2a1912a1858fb5b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "governance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from governance"
+            }
+          },
+          {
+            "id": "87871875de724926",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "465be71d71a2b5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "governance.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of governance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f082b7aa93279ba0",
+  "lastOpenFiles": [
+    "index.md",
+    "policies/administration/tool_access.md",
+    "policies/administration/documentation_standards.md",
+    "policies/administration",
+    "policies/operations/program_management.md",
+    "policies/operations/resource_allocation.md",
+    "policies/operations",
+    "policies/metagovernance/decision_making.md",
+    "policies/metagovernance/proposal_process.md",
+    "policies/metagovernance",
+    "cell_state.md",
+    "governance.md",
+    "contributing.md",
+    "constitution.md"
+  ]
+}

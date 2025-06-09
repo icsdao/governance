@@ -11,14 +11,10 @@
             "id": "f082b7aa93279ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "governance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "governance"
+              "title": "New tab"
             }
           }
         ]
@@ -170,6 +166,7 @@
   },
   "active": "f082b7aa93279ba0",
   "lastOpenFiles": [
+    "governance.md",
     "index.md",
     "policies/administration/tool_access.md",
     "policies/administration/documentation_standards.md",
@@ -181,7 +178,6 @@
     "policies/metagovernance/proposal_process.md",
     "policies/metagovernance",
     "cell_state.md",
-    "governance.md",
     "contributing.md",
     "constitution.md"
   ]
